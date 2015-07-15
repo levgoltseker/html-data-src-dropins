@@ -6,7 +6,7 @@
 		</xsl:copy>
 	</xsl:template>
 
-	<xsl:template match="div[@data-src]">
+	<xsl:template match="div[@data-src]|p[@data-src]">
 		<xsl:copy>
 			<xsl:copy-of select="@*"/>
 			<xsl:apply-templates select="document(current()/@data-src)/html/*"/>
