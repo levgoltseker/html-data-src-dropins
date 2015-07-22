@@ -15,3 +15,8 @@ Add to any desired tag (note the placeholder inner html of the tag will be repla
 <pre><code
 >data-src="tajmahal.xhtml"
 </code></pre>
+
+## Demos
+- [Simple div](http://levgoltseker.github.io/html-data-src-dropins/test/div/simple/)
+- [Simple p](http://levgoltseker.github.io/html-data-src-dropins/test/p/simple/)
+- [Simple recursive div](http://levgoltseker.github.io/html-data-src-dropins/test/recursive/div/simple/)
